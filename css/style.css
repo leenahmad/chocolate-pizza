@@ -1,0 +1,153 @@
+
+ html{
+    width: 75%;
+    margin-right:15%;
+    margin-left: 15%;
+    
+} 
+header section {
+   
+    width: 100%;
+    float: left;
+  }
+  
+  header div {
+    margin: 5px;
+     /* width: 50px;  */
+    height: 150px;
+  }
+
+   div h1{
+    padding-top: 15px;
+  }
+  div h3{
+    width: 400px;
+    padding-top: 50px;
+     font-size: small;
+    padding-right: 300px;
+     display: inline; 
+     
+  }
+  div ul li img{
+    width: 20px;
+    padding-top: 30px;
+   
+    /* padding-right: 5p; */
+    
+  }
+  
+  
+  div ul{
+      float: right;
+      margin-top: .5em;
+      margin-left: 10px;
+  }
+  div ul li {
+    display: inline-block;
+   
+  }
+   div ul :first-child{
+    margin-left:0em;
+  } 
+   div ul :last-child{
+      margin-left:0em;
+  } 
+.left{
+    float: left;
+   
+}
+.right{
+    float: right;
+    
+}
+
+
+.divmain div {
+    margin: 5px;
+     /* width: 50px;  */
+    height: 150px;
+  }
+
+   h2{
+      font-size: 50px;
+  }
+   h4{
+       width: 200px;
+    margin-top: .5em;
+    margin-bottom: 0px;
+    margin-right: 100em;
+    font-size: 10px;
+}
+.mainright{
+    float: left;
+}
+.mainleft{
+    float: right;
+}
+main img {
+    padding-bottom:3em ;
+}
+p{
+    text-align: center;
+    font-size: medium;
+    text-decoration: black;
+    
+}
+#img{
+   
+    margin-top: 25px;
+    width: 1000px;
+    background-color: orangered;
+    /* background-image:url("../img/list-bg.png"); */
+   
+   
+}
+#form1  {
+width: 600px;
+float: left;
+margin-left: 130px;
+font: 1rem 'Fira Sans', sans-serif;
+margin: .4rem;
+background-color: orangered;
+background-image:url("../img/list-bg.png");
+}
+
+
+footer img{
+margin-left: 100px;
+margin-top: 21px;
+position: absolute;
+}
+footer h2{
+    padding-top: 40px;
+    font-size: 30px;
+    margin-left: 200px;
+}
+footer p{
+    margin-left: 200px;
+    font-size: 18px;
+    padding-bottom: 30px;
+}
+
+footer button{
+    float: right;
+    background-color: orangered ;
+    height: 50px;
+    width: 150px;
+    border: none;
+    color: wheat;
+    position: absolute;
+    right: 5px;
+    /* margin-right: ; */
+
+}
+
+#copyright{
+    padding-top: 70px;
+    padding-bottom: 50px;
+}
+#logofooter{
+    margin-right:15%;
+    margin-left: 44%;
+   
+}
